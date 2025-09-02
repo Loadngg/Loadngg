@@ -5,7 +5,7 @@
 ## 🌐 Socials
 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:averinj@mail.ru)
-[![telegram](https://img.shields.io/badge/Telegram-27A7E7?logo=telegram&logoColor=white)](mailto:averinj@mail.ru)
+[![telegram](https://img.shields.io/badge/Telegram-27A7E7?logo=telegram&logoColor=white)](https://t.me/loadngg)
 
 # 💻 Tech Stack
 
