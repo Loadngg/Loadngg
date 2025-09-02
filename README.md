@@ -1,7 +1,11 @@
 # I'm Loadngg
 
-- 👨🏻‍💻 A fullstack developer from Russia
-- 📧 How to reach me **<averinj@mail.ru>**
+👨🏻‍💻 A fullstack developer from Russia
+
+## 🌐 Socials
+
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:averinj@mail.ru)
+[![telegram](https://img.shields.io/badge/Telegram-27A7E7?logo=telegram&logoColor=white)](mailto:averinj@mail.ru)
 
 # 💻 Tech Stack
 
